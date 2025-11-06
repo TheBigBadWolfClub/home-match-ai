@@ -1,0 +1,16 @@
+Real Estate Listings
+
+All generated real estate listings are available in house_listings.csv
+
+The CSV file contains 89 property listings with the following information:
+- Neighborhood
+- Property Type
+- Price
+- Bedrooms
+- Bathrooms
+- House Size
+- Description
+- Neighborhood Description
+
+To view the listings, please open: house_listings.csv
+
